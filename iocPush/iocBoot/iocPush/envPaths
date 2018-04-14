@@ -1,0 +1,4 @@
+epicsEnvSet("ARCH","linux-x86_64")
+epicsEnvSet("IOC","iocPush")
+epicsEnvSet("TOP","/home/yifans/Projects/2018/bigData/code/caPush/iocPush")
+epicsEnvSet("EPICS_BASE","/home/yifans/apps/epics/base-3.14.12.6")
